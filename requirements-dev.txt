@@ -3,7 +3,7 @@ isort==5.9.3
 black==21.7b0
 pylint==2.9.5
 flake8==3.9.2
-mypy==0.902
+mypy==0.920
 pydocstyle==6.1.1
 doc8==0.9.0
 tox==3.24.1
