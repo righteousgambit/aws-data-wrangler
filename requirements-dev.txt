@@ -1,4 +1,4 @@
-wheel==0.36.2
+wheel==0.38.4
 isort==5.9.3
 black==21.7b0
 pylint==2.9.5
